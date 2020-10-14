@@ -37,7 +37,7 @@ __Sections__:
 
 Feel free to attend the section that works best for your schedule. Each section will cover the same material.
 
-The classes will not be recorded. Given the personal nature of the topics, recording the material would be counter productive to an open classroom environment. Additionally, almost all of the value of the course will be from the live interactions during class.
+The classes will __not__ be recorded. Given the personal nature of the topics, recording the material would be counter productive to an open classroom environment. Additionally, almost all of the value of the course will be from the live interactions during class.
 
 Learning Outcomes
 -----
@@ -70,11 +70,11 @@ Grading
 | Professionalism             | 10% | Everyday                |
 | Prework                     | 10% | Every Thursday 9a PDT   |
 | Survey / Setup              |  5% | 10/21  Wednesday 6p PDT |
-| Assignment 1: LinkedIn      | 15% | 11/05  Wednesday 6p PDT |
-| Assignment 2: Resume        | 15% | 11/12  Wednesday 6p PDT |
-| Assignment 3: Interviewing  | 15% | 11/19  Wednesday 6p PDT |
-| Assignment 4: Email         | 15% | 12/03  Wednesday 6p PDT |
-| Assignment 5: Presentation  | 15% | 12/10  Wednesday 6p PDT |
+| Assignment 1: LinkedIn      | 15% | 11/04  Wednesday 6p PDT |
+| Assignment 2: Resume        | 15% | 11/11  Wednesday 6p PDT |
+| Assignment 3: Interviewing  | 15% | 11/18  Wednesday 6p PDT |
+| Assignment 4: Email         | 15% | 12/02  Wednesday 6p PDT |
+| Assignment 5: Presentation  | 15% | 12/09  Wednesday 6p PDT |
 | __Total__                   | __100%__ |
 
 Each item's contribution is capped its respective percentage. The total course percentage is capped at 100%.
