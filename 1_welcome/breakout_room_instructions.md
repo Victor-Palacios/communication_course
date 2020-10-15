@@ -7,7 +7,7 @@ In groups of 2-3:
     - What is your interest in Data Science?
     - Tell me a little about yourself.
     - What is your background?
-    - What where you doing before you entered the MSDS program?
+    - What were you doing before you entered the MSDS program?
     - How is the MSDS program?
     - What was your favorite class from last term?
 - Another person answers the prompt using the techniques from class.
