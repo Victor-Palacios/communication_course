@@ -14,5 +14,5 @@ In groups of 2-3:
 - Using the principles of Radical Candor, provide feedback to the speaker:
     - What did the speaker do well?
     - What is the single thing the speaker could do differently to be a more effective communicator?
-- Keep switch roles as time allows.
+- Keep switch roles and questions as time allows.
 
