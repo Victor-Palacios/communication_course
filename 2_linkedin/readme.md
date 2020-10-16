@@ -14,5 +14,5 @@ Before the start of class, please complete the following:
 
 __Optional__:
 
-- Watch [Rock Your LinkedIn Profile](https://www.linkedin.com/learning/rock-your-linkedin-profile/connect-to-opportunity-with-linkedin?u=2204681) on LinkedIn Learning. You can login using USFSingle sign-on (SSO).
+- Watch [Rock Your LinkedIn Profile](https://www.linkedin.com/learning/rock-your-linkedin-profile/connect-to-opportunity-with-linkedin?u=2204681) on LinkedIn Learning. You can login using USF Single sign-on (SSO).
 - Read [Why Aren’t We Talking About LinkedIn?](https://www.nytimes.com/2019/08/08/style/linkedin-social-media.html)
