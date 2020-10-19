@@ -1,4 +1,4 @@
-LinkedIn Rubric __ROUGH DRAFT__
+LinkedIn Guidelines
 ======
 
 Job Stoppers:
@@ -6,7 +6,8 @@ Job Stoppers:
 
 - Incorrect visibility setting
 - Anything non-professional
-- Making stuff up (i.e., lying)
+- Anything that could be perceived as negative about you, other people, or previous employers
+- Misrepresenting or making stuff up (i.e., lying)
 - Spelling errors
 - Grammar errors
 - Non-idiomatic English
@@ -63,10 +64,11 @@ Sections
     - Reverse chronological order
     - Titles and dates are correct
     - Appropriate number of bullet points 
-    - Each bullet starts with a strong, active verb
-    - Each bullet is descriptive of role and responsibilities
+    - Appropriate length of bullet points 
+    - Each bullet starts with a strong, active verb in the past tense.
+    - Each bullet is descriptive of role and responsibilities. What did you do? Why did it matter?
     - Each bullet is appropriately specific with details
-    - Optional - metrics, results, impact, and accomplishments of work
+    - Optional - quantified metrics, results, impact, and accomplishments of work
 
 1. Everything Else 
     - Not important
