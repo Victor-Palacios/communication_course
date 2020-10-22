@@ -9,13 +9,12 @@ Instructions
 
 The goal of this assignment is to have a professional LinkedIn profile. 
 
-Please follow the guidelines, checklists, and course materials.
+Please follow all course materials: guidelines, checklists, and lectures slides.
 
 Deliverables
 -----
 
-1. Sumbit url to your LinkedIn profile on Canvas. 
-2. Connect with [Brian on LinkedIn](http://www.linkedin.com/in/brianspiering/). 
+Sumbit url to your LinkedIn profile on Canvas. 
 
 
 Miscellaneous

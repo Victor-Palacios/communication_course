@@ -24,6 +24,7 @@ Sections
         - Does not distract from your photo.
     - Name
          - Professional
+         - Correctly formatted - spaces and capitalization
     - Headline
         - Current 
         - Specific
@@ -63,7 +64,10 @@ Sections
     - Relevant
     - Reverse chronological order
     - Titles and dates are correct
-    - Appropriate number of bullet points 
+    - Appropriate number of bullet points.
+        - Each experience should have at least one bullet point.
+        - If at a place for less than 5 years, 3 bullets points maximum.
+        - 5 bullet points maximum for any single experience. 
     - Appropriate length of bullet points 
     - Each bullet starts with a strong, active verb in the past tense.
     - Each bullet is descriptive of role and responsibilities. What did you do? Why did it matter?
@@ -72,3 +76,9 @@ Sections
 
 1. Everything Else 
     - Not important
+
+Miscellaneous Advice
+-----
+
+- There are no line breaks. You can hack it with this number of spaces: `⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ `
+- Please use something like Unicode Medium Dot for bullet points in your Linked Profile •
