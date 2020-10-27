@@ -13,7 +13,7 @@ Before the start of class, please complete the following:
 
 __Example Resumes__:
 
--  Brian’s [sample resume](https://drive.google.com/open?id=1ccDXajvwYkLz-wk_t-G6RtJFoGYwsPm-w7mObjvXG0g). Use as a template for your resume.
+-  Brian’s [sample resume](https://docs.google.com/document/d/1ccDXajvwYkLz-wk_t-G6RtJFoGYwsPm-w7mObjvXG0g/edit?usp=sharing). Use as a template for your resume.
 -  A sample software engineer template is [here](https://github.com/sb2nov/resume). Use it as general inspiration.
 
 
