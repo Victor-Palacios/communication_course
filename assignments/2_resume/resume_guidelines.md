@@ -1,14 +1,14 @@
-### Resume Checklist 
+Resumes Guidelines
+======
 
-*   Sections are in this order:
-    *   Header - always first
-    *   Education - always second
-    *   Work Experience - required
-    *   Projects - optional 
-    *   Skills - **ALWAYS LAST**
-    *   No non-standard sections
 *   Overall Formatting
-    *   File type is Google Doc. Later to be exported as MS Word or pdf. See section "thoughts on file formats".
+    *   Sections are in this order:
+        1. Header - always first
+        2. Education - always second
+        3. Work Experience
+        4. Skills - **ALWAYS LAST**
+        5. No non-standard sections
+    *   File type is Google Doc. Later to be exported as MS Word or pdf. See section "thoughts on file formats" in Resume Materials.
     *   The filename is formated like - FirstName_LastName_Resume
         *   Example: Brian_Spiering_Resume
         *   Anti-Example: finalresumev4
@@ -29,7 +29,8 @@
     *   Font 
         *   Standard Type (i.e., Times New Roman, Arial, Cambria, or Helvetica)
         *   Size between 10-13 points. 
-    *   Margins between .5-1’’
+    *   Margins between .5-1″
+
 *   Header Section
     *   Full Name
     *   City and State (without street address). You do not want your full address on the internet.
@@ -49,31 +50,28 @@
                 - Do: [github.com/brianspiering](http://www.github.com/brianspiering)
             *   Use a link shortener if they are long or unprofessional looking
     *   No photo    
+
 *   Summary Section
-    *   Optional
     *   Make it specific. Add technologies, evidence, and metrics. Avoid generalities or cliques. See example [here](https://zety.com/blog/data-scientist-resume-example). 
     *   2-3 bullets. Not a narrative.
-    *   Helpful if there is something unique about you or you need to fill space to get to 1-page resume.
     *   Do **not** include Objective(s)
+
 *   Education Section
     *   All items in reverse chronological order.
-    *   Add your current USF
-    *   Dates should be formatted: `July, 2018`
+    *   Add your current University of San Francisco information.
+    *   Dates should be formatted: `July, 2018`.
     *   Add “(expected)” to graduation data  `August, 2021 (expected)`.
-    *   Selected coursework
-        *   Optional
-        *   3-7 classes, no more than 2 lines
+    *   Selected coursework - 3-7 classes, no more than 2 lines.
     *   No GPA. 
+
 *   Work / Professional Experience Section
     *   All items in reverse chronological order.
-    *   Practicum included.
-    *   Proper bullets, see Resume Guidelines.
-*   Honors & Awards Section
-    *   If you have not won any rewards yet, do not include it. If you have won any general awards, they should go here. Job or education-related awards should go in their respective sections.
+    *   See ["How to write a bullet point"](https://github.com/brianspiering/communication_course/blob/master/resources/tips_for_writing_bullet_points.md)
+
 *   Skills section
-    *   Optional. It is better if you include skills in the context of a job. That is not always possible or they might not be clear. 
+    -   Relevant for target position.
     *   Do not add every term. 
         *   Don’t: HTML & CSS; Do: HTML5 & CSS3
         *   Don’t: Excel; Do: Excel with VBA and DEVELOPER
     *   Always use the official name of technical software (not what you type to import):
-        *   scikit-learn; not ~~sklearn, ~~Python, NumPy, SciPy, pandas, DataFrame, Both - “git / GitHub”
+        *   scikit-learn; not ~sklearn~, Python, NumPy, SciPy, pandas, “git / GitHub” (include both)
