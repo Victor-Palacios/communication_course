@@ -1,7 +1,7 @@
-**Resume Materials**
+Resume Materials
+------
 
 ### Resume Overview 
-
 
 The goal of a resume is to show how you are uniquely qualified to solve a business’ current problems. 
 
@@ -28,14 +28,7 @@ Your resume should echo the job posting. Talk about yourself in the same style a
 *   Possibly bold.
 *   Feel free to use a professional alias. In other words - if you are concerned that people will discriminate against you because of your official name, use a different one. For example, “D.J.” or “Abbie”.
 
-
-
-
-
-
 #### Project Section 
-
-
 
 *   Optional Section. The project section is medium-quality filler. For now, most people won't have enough to fill out a 1-page resume with data science related activities. If you have a 1-page resume with all data science stuff, then don't include a project section.
 *   The highest value projects are individual, custom, novel, applied, domain-specific problems, potentially high-value business impact, end-to-end, contemporary.
@@ -97,8 +90,6 @@ Your resume should echo the job posting. Talk about yourself in the same style a
 *   Spacesmatter.Notincludingspacesmakesyourwritinghardtoread.
 *   Add a line to visually separate sections. My favorite Unicode character for a line is  `Upper One Eight Block`: **▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔**
 
-
-
 *   Writing Style
     *   Try to tell a story:
         *   Who are you now? 
@@ -135,12 +126,11 @@ Your resume should echo the job posting. Talk about yourself in the same style a
 
 ### How to proofread for mistakes
 
-*   Use 2 spell checkers. Grammarly is the best. Also, copy n’ paste into MS Word.
+*   Use 2 spell checkers. Grammarly is the best. Also, copy n’ paste into MS Word. But remember, just because a word is not underlined in red does not mean it is correct.
 *   Read it out loud slowly.
-*   Have Chrome read it out-loud.
+*   Have Chrome or another web application read it out-loud.
 *   Have a nontechnical friend read it out-loud.
-*   Just because a word is not underlined in red does not mean it is correct.
-
+*   Have a technical friend read it out-loud
 
 #### Things to not include on a resume:  
 
@@ -148,7 +138,7 @@ Your resume should echo the job posting. Talk about yourself in the same style a
 
 *   Resume should not include: Age, gender, marital status, photo, an objective statement or an offer to provide references.
 *   Language, jargon, or acronyms that are unknown to employers; if you must use something peculiar you must define it.
-*   No language or wording should be in any way negative about myself, co-workers, or employers.
+*   No language or wording that could be perceived in anyway negative about myself, previous co-workers, or previous employers.
 
 
 #### List of terrible words that should never appear 

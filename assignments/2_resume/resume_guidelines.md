@@ -2,10 +2,12 @@ Resumes Guidelines
 ======
 
 *   Overall Formatting
-    *   Sections are in this order:
+    *   Sections are required (unless marked as optional) in this order:
         1. Header - always first
-        2. Education - always second
+        1. Summary
+        2. Education - always before work experience for students
         3. Work Experience
+        4. Projects (optional)
         4. Skills - **ALWAYS LAST**
         5. No non-standard sections
     *   File type is Google Doc. Later to be exported as MS Word or pdf. See section "thoughts on file formats" in Resume Materials.
@@ -73,5 +75,6 @@ Resumes Guidelines
     *   Do not add every term. 
         *   Don’t: HTML & CSS; Do: HTML5 & CSS3
         *   Don’t: Excel; Do: Excel with VBA and DEVELOPER
+    - Specific tool knowledge within an ecosystem - `Python (scikit-learn, pandas, NumPy, SciPy)`
     *   Always use the official name of technical software (not what you type to import):
         *   scikit-learn; not ~sklearn~, Python, NumPy, SciPy, pandas, “git / GitHub” (include both)
